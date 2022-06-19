@@ -11,7 +11,7 @@ The application’s front end has already been created. It's my job to build the
 
 AS A small business owner  
 I WANT to be able to write and save notes  
-SO THAT I can organize my thoughts and keep track of tasks I need to complete  
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ### Acceptance Criteria
 
@@ -27,16 +27,17 @@ THEN the new note I have entered is saved and appears in the left-hand column wi
 WHEN I click on an existing note in the list in the left-hand column  
 THEN that note appears in the right-hand column  
 WHEN I click on the Write icon in the navigation at the top of the page  
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column  
+THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ### Website Link
+
 Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.herokuapp.com)
 
 ### Screenshots
 
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_02.jpg)
+![screenshot](https://github.com/Sadegh777/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
+![screenshot](https://github.com/Sadegh777/note-taker/blob/main/public/assets/images/Screenshot_02.jpg)
 
 ### Contact
 
-[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
+[MSM on GitHub](https://github.com/Sadegh777/Note-Taker.git)
