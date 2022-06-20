@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kara-krzystan/note-taker/issues"
   },
-  "homepage": "https://github.com/kara-krzystan/note-taker#readme"
+  "homepage": "https://github.com/kara-krzystan/note-taker#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
