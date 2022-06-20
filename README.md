@@ -31,7 +31,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Website Link
 
-Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.herokuapp.com)
+Check out the deployed app here: [Note Taker](https://nodejs-note-taker-website.herokuapp.com)
 
 ### Screenshots
 
